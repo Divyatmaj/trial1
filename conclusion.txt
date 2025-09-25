@@ -1,0 +1,20 @@
+what better way to summararize what ive learnt than uploading it on githib??
+-make a file in your remote directory(ie your computer),then make a Repo on GitHub
+-make changes on remote directory,then open it in vs code
+-run commandf Git init
+-git add remote origin "*link of your Repo*"
+-git commit -m "message you want to write"
+-git -u push "file name" or { .  } if you want to pushh everything
+================================
+wallah!!! repo is updated 
+
+what if you wish to merge the two branches after you createe them??
+GIT BRANCHING:
+-git branches to see the branches 
+-to make one,say git checkout -b "Name of branch"
+-to shift between branches say. git checkout "name"
+-git diff shows the changes made to the file in the branch u currently are 
+-to merge to branches,say git merge ""Name"
+-git branch -d "Name" to delete the branch you do not want
+-lastly git logs to see all commits
+
